@@ -1,0 +1,23 @@
+{
+    "name": "test ob",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "pxt-orientbit": "github:mintgenie/pxt-orientbit#v1.3.1",
+        "OLED12864_I2C": "github:makecode-extensions/oled12864_i2c#v1.5.0"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
